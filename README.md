@@ -10,7 +10,7 @@
 
 - 📚 Tenho experiência com **ERP Totvs Protheus e Datasul; Programação ADVPL, Progress 4GL e VBA; Microsoft Excel e GSuite; Power BI, DAX, Power Query e Linguagem M; Power BI, DAX, Power Query e Linguagem M**
 
-- 📜 Certificado **ITIL4, LGPD e ISO9001**
+- 📜 Certificados **ITIL4, LGPD e ISO9001**
 
 - 🧩 Gosto de **Quebra-Cabeças, League of Legends, Livros, Animes, Filmes, Cinema, Cosplay e Viagens**
 
