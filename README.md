@@ -12,7 +12,7 @@
 
 - 📜 Certificado **ITIL4, LGPD e ISO9001**
 
-- 🧩 Eu gosto de **Quebra-Cabeças, League of Legends, Livros, Animes, Filmes, Cinema, Cosplay e Viagens**
+- 🧩 Gosto de **Quebra-Cabeças, League of Legends, Livros, Animes, Filmes, Cinema, Cosplay e Viagens**
 
 - 📫 Contate-me através do Linkedin: https://www.linkedin.com/in/caroline-correa/
 
