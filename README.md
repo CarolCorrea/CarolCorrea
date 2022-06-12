@@ -1,4 +1,4 @@
-## Hi there 👋, me chamo 👨‍💻 Caroline Corrêa e atuo como 📊 Analista de Sistemas e BI 
+## Olá 👋, me chamo 👨‍💻 Caroline Corrêa e atuo como 📊 Analista de Sistemas e BI 
 
 
 - 🏭 Atualmente trabalho como **Analista de Sistemas**
