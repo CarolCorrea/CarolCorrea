@@ -8,7 +8,7 @@
 
 - 🎓 Estou estudando **SSIS, Power BI e DAX, Power Query e Linguagem M**
 
-- 📚 Tenho experiência com **ERP Totvs Protheus e Datasul; Programação ADVPL, Progress 4GL e VBA; Microsoft Excel e GSuite; Power BI, DAX, Power Query e Linguagem M; Power BI, DAX, Power Query e Linguagem M**
+- 📚 Tenho experiência com **ERP Totvs Protheus e Datasul; Desenvolvimento ADVPL, Progress 4GL e VBA; Microsoft Excel e GSuite; Power BI, DAX, Power Query e Linguagem M.**
 
 - 📜 Certificados **ITIL4, LGPD e ISO9001**
 
